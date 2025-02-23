@@ -15,7 +15,7 @@ pipeline {
         stage('Build Docker Image') {
             steps {
                 // Needed to Change directory /react-shams into the react-shams folder where the Dockerfile exists
-                dir('finaldevops/react-shams') {
+                dir('react-shams') {
                     script {
                         // Create a dynamic image tag: pipeline_BUILDNUMBER-day-month-hour-minute
                         def buildNum = env.BUILD_NUMBER
