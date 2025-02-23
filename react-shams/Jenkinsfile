@@ -69,7 +69,7 @@ pipeline {
                     sh """
                       curl -X POST -H "Content-Type: application/json" \
                       -d '{ "text": "your application has been updated, Imagename:${IMAGE_NAME}:${env.IMAGE_TAG}" }' \
-                      https://chat.googleapis.com/v1/spaces/AAAA6gesZ6E/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=FNPvshnsRfSwXa3s2kl3XnCBEob8oYLpMI04PUjpvAs
+                      "https://chat.googleapis.com/v1/spaces/AAAA6gesZ6E/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=FNPvshnsRfSwXa3s2kl3XnCBEob8oYLpMI04PUjpvAs"
                     """
                 }
             }
