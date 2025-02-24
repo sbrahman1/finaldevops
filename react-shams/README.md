@@ -1,3 +1,4 @@
+<<<< Testing if pipline is triggerd after merge2>>>>
 <<<< Testing if pipline is triggerd after merge>>>>
 
 # Getting Started with Create React App
