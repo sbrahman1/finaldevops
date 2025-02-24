@@ -1,7 +1,7 @@
 **DevOps Final Exam for AWS, Jenkins. Docker, Kubernetes**
 
-**Date: 			15 february-20 February
-Submission deadline: 	20 february 11.59PM**
+**http://13.127.81.145:9097/**
+**https://hub.docker.com/r/shams43/react-shams/tags**
 
 **Steps:**
 Make github repository
