@@ -19,7 +19,7 @@ function App() {
           Hello,Its Shams !
         </h1>
         <p className="mt-2 hover:text-gray-400 transition-colors duration-300">
-          Welcome to my demo React application.
+          Welcome to a demo React app ( A part of devops final exam).
         </p>
         <button
           onClick={toggleTheme}
