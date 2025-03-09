@@ -16,10 +16,10 @@ function App() {
         darkMode ? "bg-gray-800 text-white" : "bg-white text-gray-800"
       }`}>
         <h1 className="text-3xl font-bold hover:text-blue-500 transition-colors duration-300">
-          Hello,Its Shams !
+          Hello,Its Mimion !
         </h1>
         <p className="mt-2 hover:text-gray-400 transition-colors duration-300">
-          Welcome to a demo React app ( A part of devops final exam).
+          A timy little girl app ( Who loves alu 🥔).
         </p>
         <button
           onClick={toggleTheme}
